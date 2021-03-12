@@ -5,5 +5,10 @@
 # IntelliJ project files
 .idea
 *.iml
+.mvn
 out
 gen
+
+**/mvnw
+**/mvnw.cmd
+**/target/
